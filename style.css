@@ -92,6 +92,7 @@ header img {
 
 .mein h1 {
     padding-top: 300px;
+    max-width: 75%;
     font-size: 40px; 
     font-weight: 200;
     margin: 0;
@@ -100,6 +101,7 @@ header img {
 .mein h2 {
     font-size: 56px;
     font-weight: 200;
+    max-width: 75%;
     margin: 0;
     padding-bottom: 150px;
 }
