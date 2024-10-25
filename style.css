@@ -18,7 +18,7 @@ button {
     padding: 0 20px;
     transition: all 0.5s;
     font-family: "Lexend Deca", sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 300;
 }
 
@@ -308,6 +308,7 @@ footer {
 
 .footer-navi {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     font-size: 14px;
     align-items: center;
